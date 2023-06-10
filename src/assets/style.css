@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: 'coffee';
+        src: url('/fonts/Coffee.ttf');
+    }
+         @font-face {
+             font-family: 'philosoph';
+             src: url('/fonts/Philosoph.ttf');
+         }
+}
